@@ -1,0 +1,44 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.card-holder {
+  padding-bottom: 35px;
+  display: flex;
+  justify-items: center;
+
+}
+
+.card {
+  padding: 10px;
+  margin: 15px;
+  width: 350px;
+  text-align: center;
+  color:rgb(126, 142, 36);
+  text-emphasis: bold;
+  font-weight: 800;
+  height: 450px;
+  background-position:center;
+  background-size:cover;
+  background-color: rgba(128, 128, 128, 0.129);
+  border: 2px solid rgba(0, 0, 0, 0.435);
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+
+}
+
+
+.card img{
+  height: 200px;
+}
+
+.black-text {
+  color: black;
+  transition: color ease-in 1s;
+
+}
+
+.black-text:hover {
+  transition: 1s ease-in;
+  color:rgb(159, 16, 16)
+}

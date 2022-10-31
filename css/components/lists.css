@@ -1,0 +1,20 @@
+.glowly_links >li {
+  display: inline-block;
+  font-size: 30;
+  padding: 10px;
+}
+
+.glowly_links >li > a {
+  text-decoration: none;
+  transition: color 0.2s ease-out;
+}
+
+.glowly_links >li >a:visited {
+  color: inherit;
+  transition: color 0.2s ease-out;
+}
+
+.glowly_links >li >a:hover{
+  color: chocolate;
+  transition: color 0.2s ease-out;
+}

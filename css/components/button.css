@@ -1,0 +1,13 @@
+.magic-button {
+  padding: 5px;
+
+}
+
+.magic-button:active {
+  color:rgba(240, 255, 255, 0);
+  background-image: url("https://c-fa.cdn.smule.com/smule-gg-s-sf-bck4/arr/00/87/f5a4e079-4386-4899-99dc-0e0eaf5d2f15.jpg");
+  padding: 50px;
+  border-radius: 50%;
+  background-position:center;
+  background-size:inherit;
+}

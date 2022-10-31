@@ -1,0 +1,14 @@
+.banner {
+  height: 225px;
+  padding: 150px 0;
+  color: white;
+  margin-bottom: 50px;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.4),rgba(255, 255, 255, 0.4)), url("https://images.unsplash.com/photo-1591035897819-f4bdf739f446?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  background-size:cover;
+  background-position:center;
+}
+.ba-container {
+  margin: auto;
+  text-align:center;
+  color: rgb(41, 34, 34);
+}
